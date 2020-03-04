@@ -61,7 +61,23 @@ A base legal para divulgação do nome completo e número do CPF de candidato cl
 
 #### Experiência de outros entes/orgãos
 
+Em concursos realizados pelo Estado de Minas Gerais utiliza-se para fins de nomeação no Diário Oficial do Estado de Minas Gerais a publicação do nome completo e do CPF do candidato nomeado a exemplo dos seguintes atos:
+
+- Edital FCS nº 05/2014, publicado em 30/07/2016: http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf
+ - Edital FHEMIG nº 01/2012, publicado em 19/09/2015:
+http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf
+
+No entanto, nos casos de divulgação do Resultado Final do concurso público a prática adotada no Estado de Minas Gerais é apenas a divulgação de nome completo e o número de inscrição do candidato, não sendo divulgado o CPF do candidato, a exemplo dos atos publicados do Diário Oficial do Estado de Minas Gerais:
+- Edital FCS nº 05/2014, publicado em 30/07/2016:
+http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf
+- Edital SEPLAG/CGE nº 02/2012, publicado em 12/03/2013 – pág 72:
+http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal
+
 #### Procedimento sugerido
+
+A consulta de [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos) do Portal da Transparência traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados.
+Assim, para fins de atendimento a Lei Geral de Proteção de Dados sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos.
+
 
 ### Contratos administrativos
 
@@ -81,7 +97,18 @@ Além disso, merece destaque o [ACÓRDÃO TCU 1855/2018 – PLENÁRIO](https://p
 
 #### Experiência de outros entes/orgãos
 
+No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo Poder Público com dados do representante legal do órgão ou entidade federal, como nome completo, número do CPF e carteira de identidade, não fazendo a alusão ao endereço residencial do representante legal, constando apenas endereço institucional.
+
+- Contrato Administrativo nº 05/2020 – ANCINE:
+https://www.ancine.gov.br/sites/default/files/contratos/contratos-administrativos/contrato-n-005-2020/ancine-contratos-239131582917481-n-005-2020.pdf
+
+- Contrato nº 85/2016 – MINISTÉRIO DA SAÚDE:
+http://portalarquivos.saude.gov.br/images/contratos/2016/CT-85-2016.pdf
+
 #### Procedimento sugerido
+
+Assim, para fins de atendimento a Lei Geral de Proteção de Dados sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
+
 
 ### Despesa pública
 
@@ -92,10 +119,6 @@ A base legal para divulgação do nome completo e número do CPF de credor de de
 > I – quanto à despesa: todos os atos praticados pelas unidades gestoras no decorrer da execução da despesa, no momento de sua realização, com a disponibilização mínima dos dados referentes ao número do correspondente processo, ao bem fornecido ou ao serviço prestado, __à pessoa física ou jurídica beneficiária do pagamento__ e, quando for o caso, ao procedimento licitatório realizado;
 
 A característica especial da despesa pública decorre do fato de que diversas transações de natureza distinta são abrangidas.
-
-#### Experiência de outros entes/orgãos
-
-#### Procedimento sugerido
 
 #### Folha de pagamento de pessoal e benefícios previdenciários
 
@@ -119,12 +142,18 @@ conjugado com
 
 ##### Experiência de outros entes/orgãos
 
+No âmbito do Governo Federal as despesas públicas de pessoa física são disponibilizadas com a descaracterização do número do [CPF]( http://transparencia.gov.br/despesas/recursos-recebidos/pagamento/158316264052020OB800321?ordenarPor=fase&direcao=desc), ocultando os 3 primeiros dígitos e 2 últimos dígitos. 
+
+Outros entes também adotam a mesma prática do Governo Federal, a exemplo dos estados do [Espírito Santo]( http://transparencia.es.gov.br/Despesa?filtro.Ano=2020&Filtro.PeriodoSelecionado=0&Filtro.DataInicialSelecionado=01/01/2020&Filtro.DataFinalSelecionado=31/12/2020&Filtro.CampoSelecionado=undefined&Filtro.CodConsultaSelecionado=11&Filtro.AnoA=2019&Filtro.AnoB=2020&Filtro.PeriodicidadeSelecionado=undefined&Filtro.Pesquisar=VITOR GUIMARÃES FURTADO&Filtro.Comparar=False&Filtro.CodFavorecidoSelecionado=undefined&Filtro.CodGrupo1Selecionado=12&Filtro.CodGrupo2Selecionado=1&Filtro.CodGrupo3Selecionado=5) e Distrito Federal.
+
 ##### Procedimento sugerido
+
+Sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
 ## Conclusão
 
 Encaminho para manifestação da Assessoria Jurídica, acerca da legalidade procedimentos sugeridos ao longo desta nota técnica e destacados abaixo, especialmente quanto à eventual ofensa aos direitos à intimidade, à honra e à vida privada da requerente, bem como quanto a possível afronta ao inciso III do art. 6º da Lei 12.527/2011 e aos dispositivos da Lei nº 13.709/2018. Os procedimentos de divulgação sugeridos são:
 
-1. Divulgação com descaracterização de nome e número do CPF dos dados de candidato classificado em concurso público;
-1. Divulgação de nome completo, número do CPF, número da carteira de identidade (RG) - bem como outras informações pessoais eventualmente incluídas nos preâmbulos dos contratos administrativos - de representantes legais da Administração e do contratado;
-1. Divulgação de nome completo e número do CPF descaracterizado de credor de despesa pública, _inclusive_ no caso de folha de pagamento de pessoal e de benefícios previdenciários 
+1. Divulgação do nome completo com descaracterização do número do CPF dos dados de candidato classificado em concurso público;
+2. Divulgação de nome completo, número do CPF, número da carteira de identidade (RG) - bem como outras informações pessoais eventualmente incluídas nos preâmbulos dos contratos administrativos - de representantes legais da Administração e do contratado, com exceção do endereço residencial do representante legal;
+3. Divulgação de nome completo com descarterização do número do CPF do credor de despesa pública, _inclusive_ no caso de folha de pagamento de pessoal e de benefícios previdenciários 
