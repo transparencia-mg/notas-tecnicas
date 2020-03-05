@@ -105,6 +105,10 @@ https://www.ancine.gov.br/sites/default/files/contratos/contratos-administrativo
 - Contrato nº 85/2016 – MINISTÉRIO DA SAÚDE:
 http://portalarquivos.saude.gov.br/images/contratos/2016/CT-85-2016.pdf
 
+No Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
+
+No entanto, em alguns casos foram identificadas a divulgação do endereço residencial do representante legal do órgão/entidade.
+
 #### Procedimento sugerido
 
 Assim, para fins de atendimento a Lei Geral de Proteção de Dados sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
@@ -146,9 +150,11 @@ No âmbito do Governo Federal as despesas públicas de pessoa física são dispo
 
 Outros entes também adotam a mesma prática do Governo Federal, a exemplo dos estados do [Espírito Santo]( http://transparencia.es.gov.br/Despesa?filtro.Ano=2020&Filtro.PeriodoSelecionado=0&Filtro.DataInicialSelecionado=01/01/2020&Filtro.DataFinalSelecionado=31/12/2020&Filtro.CampoSelecionado=undefined&Filtro.CodConsultaSelecionado=11&Filtro.AnoA=2019&Filtro.AnoB=2020&Filtro.PeriodicidadeSelecionado=undefined&Filtro.Pesquisar=VITOR GUIMARÃES FURTADO&Filtro.Comparar=False&Filtro.CodFavorecidoSelecionado=undefined&Filtro.CodGrupo1Selecionado=12&Filtro.CodGrupo2Selecionado=1&Filtro.CodGrupo3Selecionado=5) e Distrito Federal.
 
+No Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens divulga o nme completo e o CPF do credor da despesa pública.
+
 ##### Procedimento sugerido
 
-Sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
+Assim, para atender a LGPD e a boa prática recomendada pelo Guia de Transparência Ativa/[CGU - pág 32](https://www.codevasf.gov.br/transparencia/guia-de-transparencia-ativa-para-orgaos-e-entidades-do-poder-executivo-federal-6a-versao-cgu.pdf/view), sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
 ## Conclusão
 
