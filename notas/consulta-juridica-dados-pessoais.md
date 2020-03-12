@@ -61,22 +61,50 @@ A base legal para divulgação do nome completo e número do CPF de candidato cl
 
 #### Experiência de outros entes/orgãos
 
-Em concursos realizados pelo Estado de Minas Gerais utiliza-se para fins de nomeação no Diário Oficial do Estado de Minas Gerais a publicação do nome completo e do CPF do candidato nomeado a exemplo dos seguintes atos:
+No Estado de Minas Gerais, as regras para investidura em cargo ou emprego público está disciplinado no Regulamento Geral de Concurso Público, aprovado pelo [Decreto nº 42.899](https://www.ipsm.mg.gov.br/arquivos/legislacoes/legislacao/decretos/decreto_42899.pdf), de 17 de setembro de 2002. 
 
-- Edital FCS nº 05/2014, publicado em 30/07/2016: http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf
- - Edital FHEMIG nº 01/2012, publicado em 19/09/2015:
-http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf
+Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do concursos público e dispõe que:
+
+> Art. 21 O Estado dará ampla publicidade ao edital de concurso público, nos termos da Lei nº 13.088, de 11 de janeiro de 1999. 
+
+> § 1º Serão publicados, obrigatoriamente, no órgão oficial dos Poderes do Estado:
+
+> I - o edital do concurso público na íntegra;
+
+> II - Os atos administrativos, relativos ao concurso, assegurando:
+
+> a) igual acesso às informações relativas ao concurso a todos os candidatos;
+
+> b) publicidade das decisões sobre os recursos interpostos;
+
+> c) homologação do concurso público;
+
+> III - a relação dos candidatos aprovados no concurso público, em ordem de classificação final, bem como as aprovações parciais em etapas, conforme estabelecido em edital. 
+
+A prática adotada pelo Estado de Minas Gerais é a publicação da nomeação no Diário Oficial do Estado de Minas Gerais do nome completo e do CPF do candidato a exemplo dos seguintes atos:
+
+- Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf), publicado em 30/07/2016.
+
+ - Edital [FHEMIG nº 01/2012](http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf), publicado em 19/09/2015.
+
 
 No entanto, nos casos de divulgação do Resultado Final do concurso público a prática adotada no Estado de Minas Gerais é apenas a divulgação de nome completo e o número de inscrição do candidato, não sendo divulgado o CPF do candidato, a exemplo dos atos publicados do Diário Oficial do Estado de Minas Gerais:
-- Edital FCS nº 05/2014, publicado em 30/07/2016:
-http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf
-- Edital SEPLAG/CGE nº 02/2012, publicado em 12/03/2013 – pág 72:
-http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal
+- Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf), publicado em 30/07/2016
 
-#### Procedimento sugerido
+- Edital [SEPLAG/CGE nº 02/2012](http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal), publicado em 12/03/2013 – pág 72
 
-A consulta de [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos) do Portal da Transparência traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados.
-Assim, para fins de atendimento a Lei Geral de Proteção de Dados sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos.
+No âmbito do Poder Judiciário Federal, o Conselho Nacional de Justiça aprovou a [Resolução nº 269](https://www.conjur.com.br/dl/cnj-aprova-resolucao-garante.pdf), de 21 de outubro de 2018, que instituiu regras para a gerência de dados pessoas de candidatos a cargos públicos, mediante concurso público, a saber:
+
+> Art. 2º Em todos os concursos públicos do Poder Judiciário, os tribunais divulgarão apenas o nome completo e o número de inscrição dos concorrentes à(s) vaga(s) públicas(s).
+> § 1º A relação dos candidatos deverá ser organizada de acordo com o tipo de concorrência do concurso.
+> § 2º Os tribunais deverá utilizar a tecnologia *no follow* ou ferramenta similar para inibir a atuação de buscadores de informação nas páginas eletrônicas em que constarem dados pessoais dos candidatos
+> Art 3º Após a vigência do concurso, os dados pessoais publicados devem ser excluídos das páginas eletrônicas abertas ao público de competência dos tribunais.
+> § 1º A exclusão poderá ser feita imediatamente após o encerramento do concurso, incluindo todas as suas fases e recursos, caso haja abertura de novo certame.
+> 2º Sem prejuízo do caput deste artigo, os tribunais poderão manter o registro de todo o andamento do concurso público em página eletrônica, por interesse da Administração.
+
+A consulta de [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos) do Portal da Transparência traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados. 
+
+Assim, sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos.
 
 
 ### Contratos administrativos
@@ -99,19 +127,15 @@ Além disso, merece destaque o [ACÓRDÃO TCU 1855/2018 – PLENÁRIO](https://p
 
 No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo Poder Público com dados do representante legal do órgão ou entidade federal, como nome completo, número do CPF e carteira de identidade, não fazendo a alusão ao endereço residencial do representante legal, constando apenas endereço institucional.
 
-- Contrato Administrativo nº 05/2020 – ANCINE:
-https://www.ancine.gov.br/sites/default/files/contratos/contratos-administrativos/contrato-n-005-2020/ancine-contratos-239131582917481-n-005-2020.pdf
+- Contrato Administrativo nº 05/2020 – [ANCINE](https://www.ancine.gov.br/sites/default/files/contratos/contratos-administrativos/contrato-n-005-2020/ancine-contratos-239131582917481-n-005-2020.pdf)
 
-- Contrato nº 85/2016 – MINISTÉRIO DA SAÚDE:
-http://portalarquivos.saude.gov.br/images/contratos/2016/CT-85-2016.pdf
+- Contrato nº 85/2016 – [MINISTÉRIO DA SAÚDE](http://portalarquivos.saude.gov.br/images/contratos/2016/CT-85-2016.pdf)
 
 No Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
 No entanto, em alguns casos foram identificadas a divulgação do endereço residencial do representante legal do órgão/entidade.
 
-#### Procedimento sugerido
-
-Assim, para fins de atendimento a Lei Geral de Proteção de Dados sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
+Assim, sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
 
 
 ### Despesa pública
@@ -146,15 +170,13 @@ conjugado com
 
 ##### Experiência de outros entes/orgãos
 
-No âmbito do Governo Federal as despesas públicas de pessoa física são disponibilizadas com a descaracterização do número do [CPF]( http://transparencia.gov.br/despesas/recursos-recebidos/pagamento/158316264052020OB800321?ordenarPor=fase&direcao=desc), ocultando os 3 primeiros dígitos e 2 últimos dígitos. 
+No âmbito do Governo Federal as despesas públicas de pessoa física são disponibilizadas com a descaracterização do número do [CPF]( http://transparencia.gov.br/despesas/recursos-recebidos/pagamento/158316264052020OB800321?ordenarPor=fase&direcao=desc), ocultando os 3 primeiros dígitos e 2 últimos dígitos, conforme boa prática recomendada no Guia de Transparência Ativa/[CGU - pág 32](https://www.codevasf.gov.br/transparencia/guia-de-transparencia-ativa-para-orgaos-e-entidades-do-poder-executivo-federal-6a-versao-cgu.pdf/view).
 
-Outros entes também adotam a mesma prática do Governo Federal, a exemplo dos estados do [Espírito Santo]( http://transparencia.es.gov.br/Despesa?filtro.Ano=2020&Filtro.PeriodoSelecionado=0&Filtro.DataInicialSelecionado=01/01/2020&Filtro.DataFinalSelecionado=31/12/2020&Filtro.CampoSelecionado=undefined&Filtro.CodConsultaSelecionado=11&Filtro.AnoA=2019&Filtro.AnoB=2020&Filtro.PeriodicidadeSelecionado=undefined&Filtro.Pesquisar=VITOR GUIMARÃES FURTADO&Filtro.Comparar=False&Filtro.CodFavorecidoSelecionado=undefined&Filtro.CodGrupo1Selecionado=12&Filtro.CodGrupo2Selecionado=1&Filtro.CodGrupo3Selecionado=5) e Distrito Federal.
+Outros entes também adotam a mesma prática do Governo Federal, a exemplo dos estados do Espírito Santo e Distrito Federal.
 
 No Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens divulga o nme completo e o CPF do credor da despesa pública.
 
-##### Procedimento sugerido
-
-Assim, para atender a LGPD e a boa prática recomendada pelo Guia de Transparência Ativa/[CGU - pág 32](https://www.codevasf.gov.br/transparencia/guia-de-transparencia-ativa-para-orgaos-e-entidades-do-poder-executivo-federal-6a-versao-cgu.pdf/view), sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
+Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
 ## Conclusão
 
