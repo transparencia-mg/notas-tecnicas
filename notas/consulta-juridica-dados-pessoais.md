@@ -59,8 +59,6 @@ A base legal para divulgação do nome completo e número do CPF de candidato cl
 
 > Art. 8º É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas.
 
-#### Experiência de outros entes/orgãos
-
 No Estado de Minas Gerais, as regras para investidura em cargo ou emprego público está disciplinado no Regulamento Geral de Concurso Público, aprovado pelo [Decreto nº 42.899](https://www.ipsm.mg.gov.br/arquivos/legislacoes/legislacao/decretos/decreto_42899.pdf), de 17 de setembro de 2002. 
 
 Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do concursos público e dispõe que:
@@ -81,12 +79,14 @@ Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do 
 
 > III - a relação dos candidatos aprovados no concurso público, em ordem de classificação final, bem como as aprovações parciais em etapas, conforme estabelecido em edital. 
 
+
+### Experiência de outros entes/orgãos
+
 A prática adotada pelo Estado de Minas Gerais é a publicação da nomeação no Diário Oficial do Estado de Minas Gerais do nome completo e do CPF do candidato a exemplo dos seguintes atos:
 
 - Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf), publicado em 30/07/2016.
 
  - Edital [FHEMIG nº 01/2012](http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf), publicado em 19/09/2015.
-
 
 No entanto, nos casos de divulgação do Resultado Final do concurso público a prática adotada no Estado de Minas Gerais é apenas a divulgação de nome completo e o número de inscrição do candidato, não sendo divulgado o CPF do candidato, a exemplo dos atos publicados do Diário Oficial do Estado de Minas Gerais:
 - Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf), publicado em 30/07/2016
@@ -125,15 +125,13 @@ Além disso, merece destaque o [ACÓRDÃO TCU 1855/2018 – PLENÁRIO](https://p
 
 #### Experiência de outros entes/orgãos
 
-No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo Poder Público com dados do representante legal do órgão ou entidade federal, como nome completo, número do CPF e carteira de identidade, não fazendo a alusão ao endereço residencial do representante legal, constando apenas endereço institucional.
+No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo Poder Público com dados do representante legal do órgão ou entidade federal, como nome completo, número do CPF e carteira de identidade, não fazendo a alusão ao endereço residencial do representante legal, constando apenas endereço institucional, como se observa dos contratos [Contrato CGU nº 00190.101166/2020-12](https://repositorio.cgu.gov.br/bitstream/1/43611/1/CT_05_2020.pdf) e [Contrato CGU nº 00190.109976/2019-75](https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos-e-outras-avencas/2020/contrato-02-2020/CT_02_2020.pdf/view)
 
-- Contrato Administrativo nº 05/2020 – [ANCINE](https://www.ancine.gov.br/sites/default/files/contratos/contratos-administrativos/contrato-n-005-2020/ancine-contratos-239131582917481-n-005-2020.pdf)
+No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na íntrega com a menção do endereço institucional o com a informação do CPF do representante do TCEMG, como se observa dos [Contrato nº 002/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157285#1) e [Contrato nº 9216654/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157847#1).
 
-- Contrato nº 85/2016 – [MINISTÉRIO DA SAÚDE](http://portalarquivos.saude.gov.br/images/contratos/2016/CT-85-2016.pdf)
+No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
-No Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
-
-No entanto, em alguns casos foram identificadas a divulgação do endereço residencial do representante legal do órgão/entidade.
+No entanto, em alguns casos foram identificadas a divulgação do endereço residencial do representante legal do órgão/entidade, a saber: XXXXXX.
 
 Assim, sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
 
@@ -146,11 +144,7 @@ A base legal para divulgação do nome completo e número do CPF de credor de de
 > 
 > I – quanto à despesa: todos os atos praticados pelas unidades gestoras no decorrer da execução da despesa, no momento de sua realização, com a disponibilização mínima dos dados referentes ao número do correspondente processo, ao bem fornecido ou ao serviço prestado, __à pessoa física ou jurídica beneficiária do pagamento__ e, quando for o caso, ao procedimento licitatório realizado;
 
-A característica especial da despesa pública decorre do fato de que diversas transações de natureza distinta são abrangidas.
-
-#### Folha de pagamento de pessoal e benefícios previdenciários
-
-conjugado com
+Outro normativo legal que trata do padrão mínimo de qualidade do sistema integrado de administrativa financeira e controle, é o Decreto Federal nº 7.185/2010, que dispõe em seu art. 7º, o que se segue:
 
 > Art. 7º Sem prejuízo dos direitos e garantias individuais constitucionalmente estabelecidos, o SISTEMA deverá gerar, para disponibilização em meio eletrônico que possibilite amplo acesso público, pelo menos, as seguintes informações relativas aos atos praticados pelas unidades gestoras no decorrer da execução orçamentária e financeira:
 > 
@@ -168,13 +162,26 @@ conjugado com
 > 
 > f) o bem fornecido ou serviço prestado, quando for o caso;
 
+Ocorre que pela leitura da alínea d, inc. I do art. 7º do Decreto 7.185/2010, pode-se depreender que a despesa pública possui diversas transações de natureza distinta de acordo com a sua finalidade. 
+
+Assim, para os casos de folha de pagamento de pessoal e benefícios previdenciários estaria dispensada a obrigatoriedade de informar a pessoa física ou jurídica beneficiária do pagamento.
+
+Convém lembrar que nomes e CPFs de pessoas contempladas em sorteio lotérico são dados que não devem ser divulgados, conforme orientação da Nota Jurídica AJ/CGE Nº 93/2019, que concluiu que são informações pessoais de natureza privada que inclusive independem de prévia classificação para restrição de acesso ou sigilo, porque não são informações públicas, mostrando-se, em consonância com a legislação aplicável a previsão constante do artigo 2º, inciso I, da Portaria nº 26/2014 da LEMG, que prevê:  
+
+> Art. 2º. A LEMG manterá, independentemente de classificação, acesso restrito em relação à informação, sob seu controle e posse, mantida em qualquer suporte, relacionada a:
+> 
+> I - informação pessoal, relativa à intimidade, à vida privada, à honra e à imagem dos apostadores sorteados da Loteria do Estado de Minas Gerais (LEMG), nos termos do art. 57 do Decreto 45.969, de 2012;
+
+
 ##### Experiência de outros entes/orgãos
 
 No âmbito do Governo Federal as despesas públicas de pessoa física são disponibilizadas com a descaracterização do número do [CPF]( http://transparencia.gov.br/despesas/recursos-recebidos/pagamento/158316264052020OB800321?ordenarPor=fase&direcao=desc), ocultando os 3 primeiros dígitos e 2 últimos dígitos, conforme boa prática recomendada no Guia de Transparência Ativa/[CGU - pág 32](https://www.codevasf.gov.br/transparencia/guia-de-transparencia-ativa-para-orgaos-e-entidades-do-poder-executivo-federal-6a-versao-cgu.pdf/view).
 
 Outros entes também adotam a mesma prática do Governo Federal, a exemplo dos estados do Espírito Santo e Distrito Federal.
 
-No Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens divulga o nme completo e o CPF do credor da despesa pública.
+No entanto, o [Ministério Público Federal](http://www.transparencia.mpf.mp.br/conteudo/execucao-orcamentaria-e-financeira/empenho-e-pagamentos-por-favorecido/2020/empenho-e-pagamentos-por-favorecido_2020_Janeiro.pdf) na divulgação dos empenhos e pagamentos por favorecido apresenta os dados na sua integralidade, sem descarterização de nome ou CPF do beneficiário.
+
+No Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens, disponível no Portal da Transparência, possibilita ao cidadão acessar informações de todos os fornecedores e demais favorecidos de todas as despesas empenhadas, liquidadas e pagas pelo Estado, ano a ano, exceto aquelas cuja classificação orçamentária é composta pelo Elemento de Despesa “Premiações Culturais, Artísticas, Cientificas, Desportivas e Outras”, no qual estão inseridos os Prêmios Lotéricos.
 
 Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
