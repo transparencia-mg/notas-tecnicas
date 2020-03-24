@@ -16,7 +16,7 @@ Para fins desta nota técnica os dispositivos relevantes da Lei nº 12.527/2011 
 > 
 > § 1º As informações pessoais, a que se refere este artigo, relativas à intimidade, vida privada, honra e imagem:
 > 
-> [...]
+> I - terão seu acesso restrito, independentemente de classificação de sigilo e pelo prazo máximo de 100 (cem) anos a contar da sua data de produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem; e
 > 
 > II - poderão ter autorizada sua divulgação ou acesso por terceiros diante de previsão legal ou consentimento expresso da pessoa a que elas se referirem.
 > 
