@@ -1,8 +1,8 @@
 ## Introdução
 
-Para além de regulamentar o direito constitucional de acesso às informações públicas, a Lei nº 12.527/2011 (Lei de Acesso à Informação) também estabaleceu regras para garantia da proteção da informação pessoal. 
+Para além de regulamentar o direito constitucional de acesso às informações públicas, a Lei nº 12.527/2011 (Lei de Acesso à Informação) também estabeleceu regras para garantia da proteção da informação pessoal. 
 
-Para fins desta nota técnica os dispositivos relevantes da Lei nº 12.527/2011 são: 
+Para fins desta nota técnica os dispositivos relevantes são: 
 
 > Art. 6º Cabe aos órgãos e entidades do poder público, observadas as normas e procedimentos específicos aplicáveis, assegurar a:
 > 
@@ -28,13 +28,13 @@ Para fins desta nota técnica os dispositivos relevantes da Lei nº 12.527/2011 
 > 
 > V - à proteção do interesse público e geral preponderante.
 
-Como se observa, a Lei n. 12.527/2011 estabelece que as informações pessoais relativas à intimidade, vida privada, honra e imagem, em regra, têm acesso restrito a agentes públicos legalmente autorizados e à pessoa a que elas se referirem. O acesso por terceiros a tal espécie de informação apenas pode ser autorizado diante de 
+Como se observa, a Lei nº 12.527/2011 estabelece que as informações pessoais relativas à intimidade, vida privada, honra e imagem, em regra, têm acesso restrito a agentes públicos legalmente autorizados e à pessoa a que elas se referirem. O acesso por terceiros a tal espécie de informação apenas pode ser autorizado diante de 
 
 * previsão legal, ou
 * consentimento expresso da pessoa que ela se referir, ou
 * proteção do interesse público e geral preponderante. 
 
-Ou seja, uma informação pessoal pode ser divulgada, caso exista previsão legal, tenha consentimento do interessado ou para proteção do interesse público. 
+Ou seja, afastada a hipótese de consentimento, uma informação pessoal pode ser divulgada caso exista previsão legal ou para proteção do interesse público. 
 
 Apesar da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) ter trago poucas inovações em relação a estes dispositivos, ela reforçou o debate sobre privacidade, motivando, inclusive, a elaboração da presente nota técnica.
 
@@ -140,7 +140,7 @@ Além disso, merece destaque o [ACÓRDÃO TCU 1855/2018 – PLENÁRIO](https://p
 
 No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo Poder Público com dados do representante legal do órgão ou entidade federal, como nome completo, número do CPF e carteira de identidade, não fazendo a alusão ao endereço residencial do representante legal, constando apenas endereço institucional, como se observa dos contratos [Contrato CGU nº 00190.101166/2020-12](https://repositorio.cgu.gov.br/bitstream/1/43611/1/CT_05_2020.pdf) e [Contrato CGU nº 00190.109976/2019-75](https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos-e-outras-avencas/2020/contrato-02-2020/CT_02_2020.pdf/view)
 
-No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na íntrega com a menção do endereço institucional o com a informação do CPF do representante do TCEMG, como se observa dos [Contrato nº 002/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157285#1) e [Contrato nº 9216654/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157847#1).
+No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na íntegra com a menção do endereço institucional o com a informação do CPF do representante do TCEMG, como se observa dos [Contrato nº 002/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157285#1) e [Contrato nº 9216654/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157847#1).
 
 No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
