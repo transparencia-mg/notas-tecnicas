@@ -84,6 +84,9 @@ Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do 
 >
 > III - a relação dos candidatos aprovados no concurso público, em ordem de classificação final, bem como as aprovações parciais em etapas, conforme estabelecido em edital. 
 
+
+#### Experiência de outros entes/orgãos
+
 No âmbito do Poder Judiciário Federal, o Conselho Nacional de Justiça aprovou a [Resolução nº 269](https://www.conjur.com.br/dl/cnj-aprova-resolucao-garante.pdf), de 21 de outubro de 2018, que instituiu regras para a gerência de dados pessoas de candidatos a cargos públicos, mediante concurso público, a saber:
 
 > Art. 2º Em todos os concursos públicos do Poder Judiciário, os tribunais divulgarão apenas o nome completo e o número de inscrição dos concorrentes à(s) vaga(s) públicas(s).
@@ -97,9 +100,6 @@ No âmbito do Poder Judiciário Federal, o Conselho Nacional de Justiça aprovou
 > § 1º A exclusão poderá ser feita imediatamente após o encerramento do concurso, incluindo todas as suas fases e recursos, caso haja abertura de novo certame.
 > 
 > 2º Sem prejuízo do caput deste artigo, os tribunais poderão manter o registro de todo o andamento do concurso público em página eletrônica, por interesse da Administração.
-
-
-#### Experiência de outros entes/orgãos
 
 A prática adotada pelo Estado de Minas Gerais é a publicação da **Nomeação** no Diário Oficial do Estado de Minas Gerais do nome completo e do CPF do candidato a exemplo dos seguintes atos:
 
@@ -144,7 +144,7 @@ No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na
 
 No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
-No entanto, em alguns casos foram identificadas a divulgação do endereço residencial do representante legal do órgão/entidade, a saber: XXXXXX.
+No entanto, há também casos de divulgação do endereço residencial do representante legal do órgão/entidade, a exemplo do [Contrato SETOP nº 007/2007](http://www.infraestrutura.mg.gov.br/images/documentos/mg050/CONTRATO-007-2007.pdf).
 
 Assim, sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
 
@@ -192,7 +192,7 @@ No âmbito do Governo Federal as despesas públicas de pessoa física são dispo
 
 Outros entes também adotam a mesma prática na divulgação de suas despesas públicas, a exemplo do [Tribunal de Contas da União](https://contas.tcu.gov.br/ords/f?p=1136:5::::::) que descaracteriza o CPF do beneficiário pessoa física, ocultando os 06 (seis) primeiros dígitos e dos Estados do [Espírito Santo](https://transparencia.es.gov.br/Despesa) e [Distrito Federal](http://www.transparencia.df.gov.br/#/despesas/credor). 
 
-Convém observar que em consulta jurídica do TCU (TC 014.610/2014-0) sobre pedido de retirada do número do CPF do seu Portal, o parecer opinou no sentido de que a informação quanto ao CPF em deliberação proferida pelo TCU e, portanto, na base de dados disponível na Internet, não constitui informação pessoal nos termos do art. 4º, IV, da Lei 12.527/2011.que estados do Espírito Santo e Distrito Federal.
+Convém observar que em consulta jurídica do TCU (TC 014.610/2014-0) sobre pedido de retirada de registro do CPF no momento da divulgação dos julgados deste tribunal, o parecer opinou no sentido de que a informação quanto ao CPF em deliberação proferida pelo TCU e, portanto, na base de dados disponível na Internet, não constitui informação pessoal nos termos do art. 4º, IV, da Lei 12.527/2011.
 
 Apesar da prevalência da descaracterização do CPF, outros órgãos adotam práticas distintas. O [Ministério Público Federal](http://www.transparencia.mpf.mp.br/conteudo/execucao-orcamentaria-e-financeira/empenho-e-pagamentos-por-favorecido/2020/empenho-e-pagamentos-por-favorecido_2020_Janeiro.pdf) e o [Ministério Público Estadual de Minas Gerais](https://transparencia.mpmg.mp.br/db/execucao_orcamentaria_e_financeira/empenhos_e_pagamentos_por_favorecido?year=2020&format=xls) na divulgação dos empenhos e pagamentos por favorecido apresentam os dados na sua integralidade, sem descarterização de nome ou CPF do beneficiário, pessoa física.
 
