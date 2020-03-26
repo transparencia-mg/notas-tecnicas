@@ -84,6 +84,7 @@ Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do 
 >
 > III - a relação dos candidatos aprovados no concurso público, em ordem de classificação final, bem como as aprovações parciais em etapas, conforme estabelecido em edital. 
 
+Assim, sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos.
 
 #### Experiência de outros entes/orgãos
 
@@ -116,8 +117,6 @@ No entanto, nos casos de divulgação do **Resultado Final** do concurso públic
 
 A consulta de [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos) do Portal da Transparência traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados. 
 
-Assim, sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos.
-
 
 ### Contratos administrativos
 
@@ -135,6 +134,7 @@ Além disso, merece destaque o [ACÓRDÃO TCU 1855/2018 – PLENÁRIO](https://p
 
 > Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, __o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos__.
 
+Assim, sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
 
 #### Experiência de outros entes/orgãos
 
@@ -145,8 +145,6 @@ No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na
 No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
 No entanto, há também casos de divulgação do endereço residencial do representante legal do órgão/entidade, a exemplo do [Contrato SETOP nº 007/2007](http://www.infraestrutura.mg.gov.br/images/documentos/mg050/CONTRATO-007-2007.pdf).
-
-Assim, sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
 
 
 ### Despesa pública
@@ -185,6 +183,7 @@ Convém lembrar que nomes e CPFs de pessoas contempladas em sorteio lotérico s�
 > 
 > I - informação pessoal, relativa à intimidade, à vida privada, à honra e à imagem dos apostadores sorteados da Loteria do Estado de Minas Gerais (LEMG), nos termos do art. 57 do Decreto 45.969, de 2012;
 
+Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
 ##### Experiência de outros entes/orgãos
 
@@ -198,7 +197,6 @@ Apesar da prevalência da descaracterização do CPF, outros órgãos adotam pr�
 
 No caso do Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens, disponível no Portal da Transparência, possibilita ao cidadão acessar informações de todos os fornecedores e demais favorecidos de todas as despesas empenhadas, liquidadas e pagas pelo Estado, ano a ano, exceto aquelas cuja classificação orçamentária é composta pelo Elemento de Despesa “Premiações Culturais, Artísticas, Cientificas, Desportivas e Outras”, no qual estão inseridos os Prêmios Lotéricos.
 
-Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
 ## Conclusão
 
