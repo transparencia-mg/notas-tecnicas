@@ -38,7 +38,6 @@ Ou seja, afastada a hipótese de consentimento, uma informação pessoal pode se
 
 Apesar da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) ter trago poucas inovações em relação a estes dispositivos, ela reforçou o debate sobre privacidade, motivando, inclusive, a elaboração da presente nota técnica.
 
-
 A divulgação das informações de interesse coletivo ou geral no Portal da Transparência ocorre por meio de agrupamentos temáticos denominados "consultas". Atualmente das 29 consultas disponíveis, seis (6) divulgam dados pessoais sem anonimização ou descaracterização, quais sejam:
 
 * Concursos Realizados;
@@ -84,7 +83,7 @@ Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do 
 >
 > III - a relação dos candidatos aprovados no concurso público, em ordem de classificação final, bem como as aprovações parciais em etapas, conforme estabelecido em edital. 
 
-Assim, sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos.
+Assim, sugere-se a publicação do nome completo com a descaracterização do CPF dos candidatos.
 
 #### Experiência de outros entes/orgãos
 
@@ -104,19 +103,17 @@ No âmbito do Poder Judiciário Federal, o Conselho Nacional de Justiça aprovou
 
 A prática adotada pelo Estado de Minas Gerais é a publicação da **Nomeação** no Diário Oficial do Estado de Minas Gerais do nome completo e do CPF do candidato a exemplo dos seguintes atos:
 
-- Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf), publicado em 30/07/2016.
+* Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf), publicado em 30/07/2016.
 
- - Edital [FHEMIG nº 01/2012](http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf), publicado em 19/09/2015.
+* Edital [FHEMIG nº 01/2012](http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf), publicado em 19/09/2015.
 
 No entanto, nos casos de divulgação do **Resultado Final** do concurso público a prática adotada no Estado de Minas Gerais é apenas a divulgação de nome completo e o número de inscrição do candidato, não sendo divulgado o CPF do candidato, a exemplo dos atos publicados do Diário Oficial do Estado de Minas Gerais:
 
-- Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf), publicado em 30/07/2016
+* Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf), publicado em 30/07/2016
 
-- Edital [SEPLAG/CGE nº 02/2012](http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal), publicado em 12/03/2013 – pág 72
-
+* Edital [SEPLAG/CGE nº 02/2012](http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal), publicado em 12/03/2013 – pág 72
 
 A consulta de [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos) do Portal da Transparência traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados. 
-
 
 ### Contratos administrativos
 
@@ -130,7 +127,7 @@ A base legal para divulgação do nome completo, número do CPF, número da cart
 >
 > IV - informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultados, __bem como a todos os contratos celebrados__;
 
-Além disso, merece destaque o [ACÓRDÃO TCU 1855/2018 – PLENÁRIO](https://pesquisa.apps.tcu.gov.br/#/documento/acordao-completo/*/NUMACORDAO%253A1855%2520ANOACORDAO%253A2018/DTRELEVANCIA%2520desc%252C%2520NUMACORDAOINT%2520desc/0/sinonimos%253Dfalse) que solidificou, am âmbito federal, o entendimento de que para fins do cumprimento do art. 8º, § 1º, IV, da Lei 12.527/2011 deve ser divulgado o inteiro teor de contratos e aditivos, bem como o art. 2º da recém-aprovada Lei Estadual 23.569/2020 que dispõe:
+Além disso, merece destaque o [Acórdão TCU 1855/2018 – Plenário](https://pesquisa.apps.tcu.gov.br/#/documento/acordao-completo/*/NUMACORDAO%253A1855%2520ANOACORDAO%253A2018/DTRELEVANCIA%2520desc%252C%2520NUMACORDAOINT%2520desc/0/sinonimos%253Dfalse) que solidificou, am âmbito federal, o entendimento de que para fins do cumprimento do art. 8º, § 1º, IV, da Lei 12.527/2011 deve ser divulgado o inteiro teor de contratos e aditivos, bem como o art. 2º da recém-aprovada Lei Estadual 23.569/2020 que dispõe:
 
 > Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, __o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos__.
 
@@ -140,12 +137,11 @@ Assim, sugere-se a publicação do nome completo, número do CPF e carteira de i
 
 No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo Poder Público com dados do representante legal do órgão ou entidade federal, como nome completo, número do CPF e carteira de identidade, não fazendo a alusão ao endereço residencial do representante legal, constando apenas endereço institucional, como se observa dos contratos [Contrato CGU nº 00190.101166/2020-12](https://repositorio.cgu.gov.br/bitstream/1/43611/1/CT_05_2020.pdf) e [Contrato CGU nº 00190.109976/2019-75](https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos-e-outras-avencas/2020/contrato-02-2020/CT_02_2020.pdf/view)
 
-No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na íntegra com a menção do endereço institucional o com a informação do CPF do representante do TCEMG, como se observa dos [Contrato nº 002/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157285#1) e [Contrato nº 9216654/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157847#1).
+No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na íntegra com a menção do endereço institucional e com a informação do CPF do representante do TCEMG, como se observa no [Contrato nº 002/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157285#1) e no [Contrato nº 9216654/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157847#1).
 
 No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
 No entanto, há também casos de divulgação do endereço residencial do representante legal do órgão/entidade, a exemplo do [Contrato SETOP nº 007/2007](http://www.infraestrutura.mg.gov.br/images/documentos/mg050/CONTRATO-007-2007.pdf).
-
 
 ### Despesa pública
 
@@ -196,7 +192,6 @@ Convém observar que em consulta jurídica do TCU (TC 014.610/2014-0) sobre pedi
 Apesar da prevalência da descaracterização do CPF, outros órgãos adotam práticas distintas. O [Ministério Público Federal](http://www.transparencia.mpf.mp.br/conteudo/execucao-orcamentaria-e-financeira/empenho-e-pagamentos-por-favorecido/2020/empenho-e-pagamentos-por-favorecido_2020_Janeiro.pdf) e o [Ministério Público Estadual de Minas Gerais](https://transparencia.mpmg.mp.br/db/execucao_orcamentaria_e_financeira/empenhos_e_pagamentos_por_favorecido?year=2020&format=xls) na divulgação dos empenhos e pagamentos por favorecido apresentam os dados na sua integralidade, sem descarterização de nome ou CPF do beneficiário, pessoa física.
 
 No caso do Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens, disponível no Portal da Transparência, possibilita ao cidadão acessar informações de todos os fornecedores e demais favorecidos de todas as despesas empenhadas, liquidadas e pagas pelo Estado, ano a ano, exceto aquelas cuja classificação orçamentária é composta pelo Elemento de Despesa “Premiações Culturais, Artísticas, Cientificas, Desportivas e Outras”, no qual estão inseridos os Prêmios Lotéricos.
-
 
 ## Conclusão
 
