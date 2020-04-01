@@ -1,8 +1,40 @@
-## Introdução
+## 1.	Espoco
 
-Para além de regulamentar o direito constitucional de acesso às informações públicas, a Lei nº 12.527/2011 (Lei de Acesso à Informação) também estabeleceu regras para garantia da proteção da informação pessoal. 
+Diversas demandas têm sido recebidas pelo canal Fale Conosco do Portal de Transparência, suscitando a aplicação da Lei Geral de Proteção de Dados (LGPD), por considerar indevida a divulgação do Cadastro de Pessoa Física (CPF) nas consultas disponíveis no Portal da Transparência. Em razão das dúvidas e ambiguidades que cercam tal tema, e com a finalidade de antever problemas e estabelecer balizas para fazer face aos mesmos, vimos por meio desta solicitar análise jurídica, à luz da contextualização que segue.
 
-Para fins desta nota técnica os dispositivos relevantes são: 
+## 2.	Introdução
+
+A implantação do Portal da Transparência veio para atender os requisitos exigidos na legislação, em especial na Lei Complementar nº 101/2000, alterada pela Lei Complementar nº 13/2009 que estabeleceu as normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, além de determinar a disponibilização, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira; na Lei Federal nº 12.527/2011, conhecida como Lei de Acesso à Informação (LAI), que regulamentou o direito constitucional de acesso dos cidadãos às informações públicas, aplicáveis aos três poderes da União, dos Estados, do Distrito Federal e dos Municípios; e também no Decreto Estadual nº 45.969/2012, que regulamentou o acesso à informação no âmbito do Poder Executivo Estadual.
+
+Esses normativos determinam quais informações devem ser disponibilizadas nos sítios eletrônicos dos órgãos e entidades e no Portal da Transparência do Estado de Minas Gerais. Contudo, a LAI inovou ao determinar em seu art. 8º não apenas o que deve ser a ser divulgado, mas também criou a obrigação de divulgar as informações de interesse geral ou coletivo independente de requerimento:
+
+> Art. 8º É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas.
+>
+> § 1º Na divulgação das informações a que se refere o caput, deverão constar, no mínimo:
+>
+> I - registro das competências e estrutura organizacional, endereços e telefones das respectivas unidades e horários de atendimento ao público;
+>
+> II - registros de quaisquer repasses ou transferências de recursos financeiros;
+>
+> III - registros das despesas;
+>
+> IV - informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultados, bem como a todos os contratos celebrados;
+>
+> V - dados gerais para o acompanhamento de programas, ações, projetos e obras de órgãos e entidades; e
+>
+> VI - respostas a perguntas mais frequentes da sociedade.
+
+Dessa forma, cabe a Administração Pública disponibilizar de forma ativa informações que sejam por ela produzidas ou custodiadas, cujo conhecimento seja de interesse geral ou coletivo. Em consonância com esse entendimento, o art. 3º da LAI, elenca algumas diretrizes que asseguram o direito fundamental de acesso à informação. Nessas diretrizes reafirma-se, a publicidade como preceito geral e a divulgação independente de solicitação:
+
+> Art. 3º Os procedimentos previstos nesta Lei destinam-se a assegurar o direito fundamental de acesso à informação e devem ser executados em conformidade com os princípios básicos da administração pública e com as seguintes diretrizes:
+>
+> I - observância da publicidade como preceito geral e do sigilo como exceção;
+>
+> II - divulgação de informações de interesse público, independentemente de solicitações;
+>
+> ...
+
+Um exemplo que pode ser dado da aplicação dessas diretrizes, é a disponibilização da remuneração dos servidores públicos. Embora não seja uma determinação da LAI, o entendimento consolidado é de que há um interesse geral na publicização desses dados. Porém, quando se iniciou essa disponibilização houve um longo debate em torno do inc. III do art. 6º e do art. 31 da LAI, que estabelecem regras para garantia de proteção das informações pessoais:
 
 > Art. 6º Cabe aos órgãos e entidades do poder público, observadas as normas e procedimentos específicos aplicáveis, assegurar a:
 > 
@@ -11,7 +43,8 @@ Para fins desta nota técnica os dispositivos relevantes são:
 > III - proteção da informação sigilosa e da informação pessoal, observada a sua disponibilidade, autenticidade, integridade e eventual restrição de acesso.
 > 
 > [...]
-> 
+
+
 > Art. 31. O tratamento das informações pessoais deve ser feito de forma transparente e com respeito à intimidade, vida privada, honra e imagem das pessoas, bem como às liberdades e garantias individuais.
 > 
 > § 1º As informações pessoais, a que se refere este artigo, relativas à intimidade, vida privada, honra e imagem:
@@ -28,15 +61,17 @@ Para fins desta nota técnica os dispositivos relevantes são:
 > 
 > V - à proteção do interesse público e geral preponderante.
 
-Como se observa, a Lei nº 12.527/2011 estabelece que as informações pessoais relativas à intimidade, vida privada, honra e imagem, em regra, têm acesso restrito a agentes públicos legalmente autorizados e à pessoa a que elas se referirem. O acesso por terceiros a tal espécie de informação apenas pode ser autorizado diante de 
+Não há dúvidas que as informções de remuneração dos servidores podem ser consideradas informações pessoais, nos termo do inciso IV, art. 4º da LAI que define informação pessoal como sendo **"aquela relacionada à pessoa natural identificada ou identificável"**. Mas, ainda restava a discussão sobre a proteção da vida privada, intimidade e a segurança dos servidores públicos. A época, o Supremo Tribunal Federal decidiu que a publicização destas informações constituíam aplicação do princípio da publicidade administrativa, e para que não se violasse a vida privada e intimidade dos servidores, não deveriam ser divulgados outros dados pessoais, como endereço residencial, CPF e o número do documento de identidade, conforme se observa nesse trecho do julgamento:
+
+> *2. Não cabe, no caso, falar de intimidade ou de vida privada, pois os dados objeto da divulgação em causa dizem respeito a agentes públicos enquanto agentes públicos mesmos; ou, na linguagem da própria Constituição, agentes estatais agindo “nessa qualidade” (§6º do art. 37). E quanto à segurança física ou corporal dos servidores, seja pessoal, seja familiarmente, claro que ela resultará um tanto ou quanto fragilizada com a divulgação nominalizada dos dados em debate, mas é um tipo de risco pessoal e familiar que se atenua com a proibição de se revelar o endereço residencial, o CPF e a CI de cada servidor. No mais, é o preço que se paga pela opção por uma carreira pública no seio de um Estado republicano.(STF, SS 3.902-AgR, Rel.Min. Ayres Britto, j. 09/06/2011).*
+
+A Lei Federal nº 12.527/2011 estabelece que as informações pessoais relativas à intimidade, vida privada, honra e imagem, em regra, têm acesso restrito a agentes públicos legalmente autorizados e à pessoa a que elas se referirem. O acesso por terceiros a tal espécie de informação apenas pode ser autorizado diante de:
 
 * previsão legal, ou
 * consentimento expresso da pessoa que ela se referir, ou
 * proteção do interesse público e geral preponderante. 
 
-Ou seja, afastada a hipótese de consentimento, uma informação pessoal pode ser divulgada caso exista previsão legal ou para proteção do interesse público. 
-
-Apesar da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) ter trago poucas inovações em relação a estes dispositivos, ela reforçou o debate sobre privacidade, motivando, inclusive, a elaboração da presente nota técnica.
+Ou seja, afastada a hipótese de consentimento, uma informação pessoal pode ser divulgada caso exista previsão legal ou para proteção do interesse público. A Lei Federal nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD) que dispõe sobre o tratamento de dados pessoais corrobora com esse entendimento. Além disso, a aprovação dessa lei, trouxe o tema privacidade e proteção de dados pessoais para a pauta novamente, provocando a necessidade de um debate em torno dos limites do tratamento de dados pessoais pelo poder público e, por consequência, as implicações da aplicaçõão da LGPD na política de transparência, em especial, para CGE, na forma de divulgação dessas informações no Portal da Transparência.
 
 A divulgação das informações de interesse coletivo ou geral no Portal da Transparência ocorre por meio de agrupamentos temáticos denominados "consultas". Atualmente das 29 consultas disponíveis, seis (6) divulgam dados pessoais sem anonimização ou descaracterização, quais sejam:
 
@@ -47,21 +82,36 @@ A divulgação das informações de interesse coletivo ou geral no Portal da Tra
 * Viagens;
 * Compras e Contratos.
 
-Para fins de análise, os dados serão agrupadas em três categorias, com base na previsão legal que fundamenta a disponibilização em meio eletrônico de amplo acesso público, quais sejam:
+**Comentário geral apontando que não faz sentido descaracterizar nome nesses conjuntos de dados, o que está em discussão é o CPF para todos e identificação no contrato.**
+
+Diferente da remuneração dos servidores, em que já existe um consenso em torno de quais informações poderiam ser divulgadas sem ferir o direito a privacidade, o mesmo não ocorre sobre os outrso conjuntos de dados. Nesse contexto, uma das alternativas apresentadas, quando se trata do CPF, é a descaracterização. Conforme consta na resposta do recurso de 1º instancia proferido pela Controladoria-Geral da União relativo ao pedido [00075.000251/2016-96](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Attachments/457065/RESPOSTA_RECURSO_1_Resposta%20ao%20cidado.pdf). O Governo Federal já utiliza essa técnica nas diversas consultas no Portal da Transparência da União, desde 2009, seguindo um formato em que são ocultados os três primeiros e os dois últimos dígitos dos 11 que compõem o número de CPF. 
+
+A base legal para adoção desse formato é a Lei de Diretrizes Orçamentárias (LDO), do exercício de 2011 (Lei Federal nº 12.309/2010), que previu a divulgação dos CPFs de terceirizados contratados por órgãos publicos com a ocultação dos três primeiros dígitos e dos dois dígitos verificadores conforme §4º e §5º do art. 87:
+
+> § 4º  Os instrumentos de contratação de serviços de terceiros, que se refiram à substituição de servidores, e os mencionados no § 3º deste artigo, deverão prever o fornecimento pela empresa contratada de informações contendo o nome completo, CPF, cargo ou atividade exercida, lotação e local de exercício dos empregados na contratante, para fins de divulgação na internet nas condições estabelecidas pelo § 4º do art. 77 desta Lei.
+>
+> [...]
+>
+> § 5º  A divulgação prevista no § 4º deste artigo deverá ocultar os três primeiros dígitos e os dois dígitos verificadores do CPF.  
+
+A mesma previsão foi repetida na LDO dos exercícios seguintes. Segundo a CGU, o objetivo dessa descaracterização do CPF é garantir o controle social e proteger a pessoa contra possíveis fraudes, conforme consta na resposta dada pela CGU ao pedido 00075.000251/2016-96:
+
+> *Este formato foi pensado para permitir o controle social e evitar homonímia, ao mesmo tempo em que protege a pessoa cujo CPF está sendo divulgado contra possíveis fraudes que poderiam ser realizadas caso o número fosse exibido de maneira integral. A ocultação dos cinco dígitos dificulta a ocorrência de fraudes, já que existem pelo menos 100.000 possibilidades de combinação dos números ocultados de CPF.*
+
+No âmbito estadual não existe norma que estabeleça como deve ser essa divulgação, nem há orientação semelhante na LDO. Mesmo no governo federal a CGU afirma que **"não existe uma norma taxativa ou uma decisão judicial que proíba ou libere totalmente a divulgação do CPF pela Administração Pública Federal"**, o procedimento adotado e descrito acima é feito por analogia no intuito de encontrar o equilíbrio mencionado.  
+
+Assim, o desafio para Administração Pública é encontrar o equilíbrio entre o direito de acesso à informação e a proteção de dados pessoais. 
+
+Para fins de análise, os dados desta Nota Técnica serão agrupadas em três categorias, com base na previsão legal que fundamenta a disponibilização em meio eletrônico de amplo acesso público, seguida de sugestão de procedimentos para a proteção dos dados pessoais: 
 
 1. Nome completo e número do CPF de candidato classificado em concurso público;
 1. Nome completo, número do CPF, número da carteira de identidade (RG) - bem como outras informações pessoais eventualmente incluídas nos preâmbulos dos contratos administrativos - de representantes legais da Administração e do contratado;
 1. Nome completo e número do CPF de credor de despesa pública.
 
-O restante desta nota técnica discute a divulgação destas categorias e sugere procedimentos para proteção dos dados pessoais. 
 
-## Análise
+## 3. Análise
 
 ### Concurso público
-
-A base legal para divulgação do nome completo e número do CPF de candidato classificado em concurso público é o caput do art. 8º da Lei 12.527/2011 que dispõe:
-
-> Art. 8º É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas.
 
 No Estado de Minas Gerais, as regras para investidura em cargo ou emprego público está disciplinado no Regulamento Geral de Concurso Público, aprovado pelo [Decreto nº 42.899](https://www.ipsm.mg.gov.br/arquivos/legislacoes/legislacao/decretos/decreto_42899.pdf), de 17 de setembro de 2002. 
 
@@ -83,7 +133,13 @@ Dentre outras previsões, o art. 21 do referido Decreto trata da publicidade do 
 >
 > III - a relação dos candidatos aprovados no concurso público, em ordem de classificação final, bem como as aprovações parciais em etapas, conforme estabelecido em edital. 
 
-Assim, sugere-se a publicação do nome completo com a descaracterização do CPF dos candidatos.
+Considera-se como base legal para divulgação do nome completo e número do CPF de candidato classificado em concurso público é o caput do art. 8º da Lei 12.527/2011 que dispõe:
+
+> Art. 8º É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas.
+
+Apesar de não haver uma obrigatoriedade explicita da divulgação dessa informação no Portal da Transparência, a consulta denominada [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos), tem como objetivo facilitar o acesso aos resultados dos concursos realizados pelo estado, contribuindo para a transparência do processo. Essa consulta traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados.
+
+A discussão nesse caso, refere-se a quais dados seriam necessários, para garantir a qualidade da informação divulgada, de modo que seja possível diferenciar homônimos, por exemplo. Para que isso fosse possível optou-se por divulgar nome completo e número do CPF de candidato classificado.
 
 #### Experiência de outros entes/orgãos
 
@@ -101,19 +157,10 @@ No âmbito do Poder Judiciário Federal, o Conselho Nacional de Justiça aprovou
 > 
 > 2º Sem prejuízo do caput deste artigo, os tribunais poderão manter o registro de todo o andamento do concurso público em página eletrônica, por interesse da Administração.
 
-A prática adotada pelo Estado de Minas Gerais é a publicação da **Nomeação** no Diário Oficial do Estado de Minas Gerais do nome completo e do CPF do candidato a exemplo dos seguintes atos:
+#### Procedimento sugerido
 
-* Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf), publicado em 30/07/2016.
+Diante do exposto acima, sugere-se a publicação do nome completo com a descaraterização do CPF dos candidatos. Dessa forma, acredita-se que esse procedimento garante o acesso as informações, sem expor dados pessoais do candidato.
 
-* Edital [FHEMIG nº 01/2012](http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf), publicado em 19/09/2015.
-
-No entanto, nos casos de divulgação do **Resultado Final** do concurso público a prática adotada no Estado de Minas Gerais é apenas a divulgação de nome completo e o número de inscrição do candidato, não sendo divulgado o CPF do candidato, a exemplo dos atos publicados do Diário Oficial do Estado de Minas Gerais:
-
-* Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf), publicado em 30/07/2016
-
-* Edital [SEPLAG/CGE nº 02/2012](http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal), publicado em 12/03/2013 – pág 72
-
-A consulta de [Concursos Realizados]( http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos) do Portal da Transparência traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados. 
 
 ### Contratos administrativos
 
@@ -131,7 +178,17 @@ Além disso, merece destaque o [Acórdão TCU 1855/2018 – Plenário](https://p
 
 > Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, __o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos__.
 
-Assim, sugere-se a publicação do nome completo, número do CPF e carteira de identidade e a descaracterização do endereço residencial do representante legal do órgão ou entidade, quando houver.
+Embora nesse caso a lei seja clara quanto a disponibilização do inteiro teor do contrato, a discussão gira em torno de quais informações pessoais são necessárias para identificação do representante legal do contratante, sem expor de forma demasiada informações pessoais que não se enquadrariam no interesse publico preponderante, permitindo assim o controle social dos atos da administração pública. 
+
+No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
+
+No entanto, há também casos de divulgação do endereço residencial do representante legal do órgão/entidade, a exemplo do [Contrato SETOP nº 007/2007](http://www.infraestrutura.mg.gov.br/images/documentos/mg050/CONTRATO-007-2007.pdf).
+
+Nesse caso, o endereço residencial pode ser necessário para fins de formalização do contrato, mas não foi identificado qual seria o prejuízo para controle social, se essa informação deixasse de ser divulgada.
+
+Na LAI, o §2º do artigo 7º menciona que quando não for autorizado acesso integral à informação por ser parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo. Nessa hipótese de ocultação da parte sigilosa, o princípio da primariedade, que é a qualidade da informação coletada na fonte, com o máximo de detalhamento possível sem modificações, é favorecida.
+
+Nesse caso entende-se que a ocultação seria o procedimento mais apropriado em detrimento da certidão ou extrato, por favorecer o princípio da primaridade que é **"qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações" (inciso IX, art.4º, Lei nº 12.527/2011)**.
 
 #### Experiência de outros entes/orgãos
 
@@ -139,9 +196,12 @@ No âmbito do Governo Federal são disponibilizados os contratos celebrados pelo
 
 No Tribunal de Contas do Estado de Minas Gerais, os contratos são divulgados na íntegra com a menção do endereço institucional e com a informação do CPF do representante do TCEMG, como se observa no [Contrato nº 002/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157285#1) e no [Contrato nº 9216654/2019](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=157847#1).
 
-No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
+#### Procedimento sugerido
 
-No entanto, há também casos de divulgação do endereço residencial do representante legal do órgão/entidade, a exemplo do [Contrato SETOP nº 007/2007](http://www.infraestrutura.mg.gov.br/images/documentos/mg050/CONTRATO-007-2007.pdf).
+Nas consultas realizadas não foram encontrados exemplos de ocultação dos dados pessoais dos representantes legais nos contratos, como o nome completo, número do CPF e carteira de identidade. 
+
+Assim, sugere-se que seja mantida a divulgação da íntegra do contrato sendo descacterizado ou ocultado apenas o endereço residencial do representante legal do órgão ou entidade, quando houver, pois não se vislumbra justificativa para a necessidade de divulgação do endereço residencial do representante legal, já que o objetivo primário da divulgação dos contratos não estaria prejudicado. O endereço residencial diferente do comercial, não decorre da relação da pessoa com o estado, mas diz respeito a sua vida privada.  
+
 
 ### Despesa pública
 
@@ -169,17 +229,20 @@ Outro normativo legal que trata do padrão mínimo de qualidade do sistema integ
 > 
 > f) o bem fornecido ou serviço prestado, quando for o caso;
 
-Ocorre que pela leitura da alínea d, inc. I do art. 7º do Decreto 7.185/2010, pode-se depreender que a despesa pública possui diversas transações de natureza distinta de acordo com a sua finalidade. 
+Ocorre que pela leitura da alínea d, inc. I do art. 7º do Decreto 7.185/2010, pode-se depreender que a despesa pública possui diversas transações de natureza distinta de acordo com a sua finalidade. O normativo faz uma ressalva para os casos de folha de pagamento de pessoal e benefícios previdenciários, já que estaria dispensada a obrigatoriedade de informar a pessoa física ou jurídica beneficiária desses pagamentos.
 
-Assim, para os casos de folha de pagamento de pessoal e benefícios previdenciários estaria dispensada a obrigatoriedade de informar a pessoa física ou jurídica beneficiária do pagamento.
+Outra exceção são as informaçoes referentes ao nome e CPF de pessoas contempladas em sorteio lotérico, que foram objeto de análise na Nota Jurídica AJ/CGE Nº 93/2019, que concluiu que são informações pessoais de natureza privada, e, que, portanto já possui o sigilo previsto art. 31 da Lei 12.527/2011, afastando-se assim, o interesse público na divulgação desses dados:
 
-Convém lembrar que nomes e CPFs de pessoas contempladas em sorteio lotérico são dados que não devem ser divulgados, conforme orientação da Nota Jurídica AJ/CGE Nº 93/2019, que concluiu que são informações pessoais de natureza privada que inclusive independem de prévia classificação para restrição de acesso ou sigilo, porque não são informações públicas, mostrando-se, em consonância com a legislação aplicável a previsão constante do artigo 2º, inciso I, da Portaria nº 26/2014 da LEMG, que prevê:  
+> Informações pessoais de natureza pública são as que contém elementos sócio-identificadores sobre os quais recaem o interesse público, tornando-se necessária sua divulgação à sociedade, enquanto informações pessoais de natureza privada estão ligadas exclusivamente à  intimidade e vida privada dos interessados. Como é sabido, ao mesmo tempo a Constituição garante a proteção destas, bem como o acesso àquelas (art. 5º, incisos X e XXXIII, CF).
+>
+> A antinomia jurídica ocorre quando da colisão de normas contraditárias vigentes no mesmo ordenamento jurídico, neste caso, a contradição se dá através do conflito aparente entre duas garantias constitucionais, uma que tutela o direito à publicidade dos atos da Administração Pública e outro que objetiva a salvaguarda da vida privada.
+>
+> No caso em tela, s.m.j., não há que se falar em informações públicas, pois nomes e CPFs de pessoas contempladas em sorteio lotérico são dados relacionados à vida particular dos interessados e têm natureza privada, porque não dizem respeito à pagamento, remuneração, vencimento ou benefício decorrente de vínculo de qualquer natureza, funcional ou contratual, com a administração pública. Além disso, a divulgação dessas informações não tem como objetivo a disponibilização de elementos sócio-identificadores de interesse público, nem tampouco de utilidade social.
 
-> Art. 2º. A LEMG manterá, independentemente de classificação, acesso restrito em relação à informação, sob seu controle e posse, mantida em qualquer suporte, relacionada a:
-> 
-> I - informação pessoal, relativa à intimidade, à vida privada, à honra e à imagem dos apostadores sorteados da Loteria do Estado de Minas Gerais (LEMG), nos termos do art. 57 do Decreto 45.969, de 2012;
+Diferente desses dois casos, os demais grupos de despesa, a princípio, apresentam esse aparente conflito de normas contraditárias vigentes no mesmo ordenamento jurídico, por um lado temos o direito constitucional 
 
-Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
+**Comentário geral( descrever conflito entre publicidade e vida privada)**
+
 
 ##### Experiência de outros entes/orgãos
 
@@ -191,9 +254,13 @@ Convém observar que em consulta jurídica do TCU (TC 014.610/2014-0) sobre pedi
 
 Apesar da prevalência da descaracterização do CPF, outros órgãos adotam práticas distintas. O [Ministério Público Federal](http://www.transparencia.mpf.mp.br/conteudo/execucao-orcamentaria-e-financeira/empenho-e-pagamentos-por-favorecido/2020/empenho-e-pagamentos-por-favorecido_2020_Janeiro.pdf) e o [Ministério Público Estadual de Minas Gerais](https://transparencia.mpmg.mp.br/db/execucao_orcamentaria_e_financeira/empenhos_e_pagamentos_por_favorecido?year=2020&format=xls) na divulgação dos empenhos e pagamentos por favorecido apresentam os dados na sua integralidade, sem descarterização de nome ou CPF do beneficiário, pessoa física.
 
+#### Procedimento sugerido
+
 No caso do Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens, disponível no Portal da Transparência, possibilita ao cidadão acessar informações de todos os fornecedores e demais favorecidos de todas as despesas empenhadas, liquidadas e pagas pelo Estado, ano a ano, exceto aquelas cuja classificação orçamentária é composta pelo Elemento de Despesa “Premiações Culturais, Artísticas, Cientificas, Desportivas e Outras”, no qual estão inseridos os Prêmios Lotéricos.
 
-## Conclusão
+Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
+
+## 4. Conclusão
 
 Encaminho para manifestação da Assessoria Jurídica, acerca da legalidade procedimentos sugeridos ao longo desta nota técnica e destacados abaixo, especialmente quanto à eventual ofensa aos direitos à intimidade, à honra e à vida privada da requerente, bem como quanto a possível afronta ao inciso III do art. 6º da Lei 12.527/2011 e aos dispositivos da Lei nº 13.709/2018. Os procedimentos de divulgação sugeridos são:
 
