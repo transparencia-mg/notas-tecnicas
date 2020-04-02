@@ -6,7 +6,7 @@ Diversas demandas têm sido recebidas pelo canal Fale Conosco do Portal de Trans
 
 A implantação do Portal da Transparência veio para atender os requisitos exigidos na legislação, em especial: na Lei Complementar nº 101/2000, alterada pela Lei Complementar nº 13/2009, que estabeleceu as normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, além de determinar a disponibilização, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira; na Lei Federal nº 12.527/2011, conhecida como Lei de Acesso à Informação (LAI), que regulamentou o direito constitucional de acesso dos cidadãos às informações públicas, aplicáveis aos três poderes da União, dos Estados, do Distrito Federal e dos Municípios; e também no Decreto Estadual nº 45.969/2012, que regulamentou o acesso à informação no âmbito do Poder Executivo Estadual.
 
-Esses normativos determinam quais informações devem ser disponibilizadas nos sítios eletrônicos dos órgãos e entidades e no Portal da Transparência do Estado de Minas Gerais. Contudo, a LAI inovou ao determinar em seu art. 8º não apenas o que deve ser a ser divulgado, mas também criou a obrigação de divulgar as informações de interesse geral ou coletivo independente de requerimento:
+Esses normativos determinam quais informações devem ser disponibilizadas nos sítios eletrônicos dos órgãos e entidades e no Portal da Transparência do Estado de Minas Gerais. Contudo, a LAI inovou ao determinar em seu art. 8º não apenas o que deve ser divulgado, mas também criou a obrigação de divulgar as informações de interesse geral ou coletivo independente de requerimento:
 
 > Art. 8º É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas.
 >
@@ -88,7 +88,7 @@ Importante ressaltar, que quanto a esses conjuntos de dados, não se pretende aq
 
 Em contraponto as discussões sobre a proteção dos dados pessoais nesses conjuntos de dados, reforçamos que em relação a divulgação da remuneração dos servidores já existe um consenso em torno de quais informações podem ser divulgadas sem ferir o direito a privacidade, utlizando-se por exemplo da descaracterização do número do CPF. 
 
-Essa descaracterização de CPG é a alternativa utilizada pelo Governo Federal nas diversas consultas no Portal da Transparência da União, desde 2009, seguindo um formato em que são ocultados os três primeiros e os dois últimos dígitos dos 11 (onze) números que compõem o CPF, conforme se observa da resposta ao recurso de 1º instancia proferido pela Controladoria-Geral da União relativo ao pedido [00075.000251/2016-96](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Attachments/457065/RESPOSTA_RECURSO_1_Resposta%20ao%20cidado.pdf)
+Essa descaracterização de CPF é a alternativa utilizada pelo Governo Federal nas diversas consultas no Portal da Transparência da União, desde 2009, seguindo um formato em que são ocultados os três primeiros e os dois últimos dígitos dos 11 (onze) números que compõem o CPF, conforme se observa da resposta ao recurso de 1º instancia proferido pela Controladoria-Geral da União relativo ao pedido [00075.000251/2016-96](http://www.consultaesic.cgu.gov.br/busca/dados/Lists/Pedido/Attachments/457065/RESPOSTA_RECURSO_1_Resposta%20ao%20cidado.pdf)
 
 De acordo com o Governo Federal, a base legal para adoção desse formato é a Lei de Diretrizes Orçamentárias (LDO), do exercício de 2011 (Lei Federal nº 12.309/2010), que previu a divulgação dos CPFs de terceirizados contratados por órgãos publicos com a ocultação dos três primeiros dígitos e dos dois dígitos verificadores conforme §4º e §5º do art. 87:
 
@@ -182,7 +182,7 @@ Além disso, merece destaque o [Acórdão TCU 1855/2018 – Plenário](https://p
 
 > Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, __o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos__.
 
-Embora nesse caso a lei seja clara quanto a disponibilização do inteiro teor do contrato, a discussão gira em torno de quais informações pessoais são necessárias para identificação do representante legal do contratante, sem expor de forma demasiada informações pessoais que não se enquadrariam no interesse publico preponderante, permitindo assim o controle social dos atos da administração pública. 
+Embora nesse caso a lei seja clara quanto a disponibilização do inteiro teor do contrato, a discussão gira em torno de quais informações pessoais são necessárias para identificação do representante legal do contratante, sem expor de forma demasiada informações pessoais que não se enquadrariam no interesse público preponderante, permitindo assim o controle social dos atos da administração pública. 
 
 No âmbito do Poder Executivo do Estado de Minas Gerais, os contratos em sua maioria utilizam a divulgação do nome completo, CPF e identidade dos representantes dos órgãos e entidades e empresas contratadas e endereço institucional, a exemplo dos contratos [9221098](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=159885#1) e [9241375](https://www1.compras.mg.gov.br/contrato/gestaocontratos/arquivosContrato.html?idContrato=161851#1).
 
@@ -256,7 +256,7 @@ Apesar da prevalência da descaracterização do CPF, outros órgãos adotam pr�
 
 #### Procedimento sugerido
 
-No caso do Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens, disponível no Portal da Transparência, possibilita ao cidadão acessar informações de todos os fornecedores e demais favorecidos de todas as despesas empenhadas, liquidadas e pagas pelo Estado, ano a ano, exceto aquelas cuja classificação orçamentária é composta pelo Elemento de Despesa “Premiações Culturais, Artísticas, Cientificas, Desportivas e Outras”, caractericados como Prêmios Lotéricos, e já excetuada por meio de análise da AGE.
+No caso do Estado de Minas Gerais, as consultas de Despesa, Restos a Pagar, Diárias e Viagens, disponível no Portal da Transparência, possibilita ao cidadão acessar informações de todos os fornecedores e demais favorecidos de todas as despesas empenhadas, liquidadas e pagas pelo Estado, ano a ano, exceto aquelas cuja classificação orçamentária é composta pelo Elemento de Despesa “Premiações Culturais, Artísticas, Cientificas, Desportivas e Outras”, caracterizados como Prêmios Lotéricos, e já excetuada por meio de análise da AGE.
 
 Assim, sugere-se a divulgação do nome completo com a descaraterização do número do CPF do credor da despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
@@ -269,4 +269,4 @@ Os procedimentos de divulgação sugeridos são:
 
 1. Divulgação do nome completo com descaracterização do número do CPF dos dados de candidato classificado em concurso público;
 2. Divulgação de nome completo, número do CPF, número da carteira de identidade (RG) - bem como outras informações pessoais eventualmente incluídas nos preâmbulos dos contratos administrativos - de representantes legais da Administração e do contratado, com exceção do endereço residencial do representante legal;
-3. Divulgação de nome completo com descarterização do número do CPF do credor de despesa pública, _inclusive_ no caso de folha de pagamento de pessoal e de benefícios previdenciários 
+3. Divulgação de nome completo com descaracterização do número do CPF do credor de despesa pública, _inclusive_ no caso de folha de pagamento de pessoal e de benefícios previdenciários 
