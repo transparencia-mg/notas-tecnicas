@@ -143,6 +143,17 @@ Considera-se como base legal para divulgação do nome completo e número do CPF
 
 Apesar de não haver uma obrigatoriedade explicita da divulgação dessa informação no Portal da Transparência, a consulta denominada [Concursos Realizados](http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados?view=estado_concursos), tem como objetivo facilitar o acesso aos resultados dos concursos realizados pelo estado, contribuindo para a transparência do processo seletivo. Essa consulta traz para cada edital publicado o nome completo e o CPF dos candidatos classificados no concurso público, mesmo para os candidatos que ainda não foram nomeados.
 
+A prática adotada pelo Estado de Minas Gerais é a publicação da **Nomeação** no Diário Oficial do Estado de Minas Gerais do nome completo e do CPF do candidato a exemplo dos seguintes atos:
+
+- Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//ato_de_nomeacao_05_2014_1.pdf), publicado em 30/07/2016.
+- Edital [FHEMIG nº 01/2012](http://www.planejamento.mg.gov.br/sites/default/files/documentos//19_09_2015_atos_de_nomeacao.pdf), publicado em 19/09/2015.
+
+No entanto, nos casos de divulgação do **Resultado Final** do concurso público a prática adotada no Estado de Minas Gerais é apenas a divulgação de nome completo e o número de inscrição do candidato, não sendo divulgado o CPF do candidato, a exemplo dos atos publicados do Diário Oficial do Estado de Minas Gerais:
+
+- Edital [FCS nº 05/2014](http://www.planejamento.mg.gov.br/sites/default/files/documentos//resultado_final_e_homologacao_do_concurso.pdf), publicado em 30/07/2016
+
+- Edital [SEPLAG/CGE nº 02/2012](http://www.jornalminasgerais.mg.gov.br/?dataJornal=2013-03-12#caderno-jornal), publicado em 12/03/2013 – pág 72
+
 A discussão nesse caso, refere-se a quais dados seriam necessários para garantir a qualidade da informação divulgada, de modo que seja possível diferenciar homônimos, por exemplo. Para que isso fosse possível optou-se por divulgar nome completo e número do CPF de candidato classificado.
 
 #### Experiência de outros entes/orgãos
