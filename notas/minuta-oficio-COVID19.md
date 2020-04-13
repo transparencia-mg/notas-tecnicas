@@ -36,9 +36,9 @@ Solicitamos ainda que as informações sejam encaminhadas para esta Controladori
 
 Por fim, peço envidarem esforços para que a divulgação dessas informações nos sítios eletrônicos ocorra “imediatamente” conforme previsto no §2º, art. 4º da Lei 13.979/2020.
 
-Coloco-me à disposição para eventuais esclarecimentos que se fizerem necessários.
+Dúvidas ou maiores esclarecimentos podem ser obtidos por meio de contato com o servidor Francisco Alves de Oliveira Júnior, Diretor Central de Transparência Ativa, no endereço eletrônico <francisco.junior@cge.mg.gov.br>.
 
-Respeitosamente,
+Atenciosamente,
 
 Rodrigo Fontenelle de A. Miranda
 
