@@ -90,7 +90,7 @@ II - liberação ao pleno conhecimento e acompanhamento da sociedade, em tempo r
 
 10 – No entanto, em relação a forma de divulgação do CPF nas consultas do portal de transparência que ainda constam essa informação disponível, conforme citado alhures, faz-se necessário buscar um equilíbrio entre o princípio da publicidade administrativa e a proteção dos dados pessoais para que se uniformize os critérios de divulgação desses dados.
 
- 11 – No Poder Executivo Federal, a alternativa utilizada nas `consultas disponíveis` no Portal da Transparência da União é pela descaracterização do CPF. São ocultados os três primeiros e os dois últimos dígitos dos 11 (onze) números que o compõem de forma a mitigar a questão que envolve a segurança dos dados pessoais e ainda possibilitar o controle social da atividade governamental <a title="_Posicionamento repetido no Recurso Extraordinário com Agravo 652.777, São Paulo, publicado no DJe em 01/07/2015._"><sup>7</sup></a>.
+ 11 – No Poder Executivo Federal, a alternativa utilizada nas `consultas disponíveis` no Portal da Transparência da União é pela descaracterização do CPF. São ocultados os três primeiros e os dois últimos dígitos dos 11 (onze) números que o compõem de forma a mitigar a questão que envolve a segurança dos dados pessoais e ainda possibilitar o controle social da atividade governamental <a title="_Informação extraída da resposta ao recurso de 1º instancia proferido pela Controladoria-Geral da União relativo ao pedido nº  00075.000251/2016-96 que trata da divulgação do CPF descaracterizado dos servidores no Portal da Transparência._"><sup>7</sup></a>.
 
 ````
 Comentários Paola:
@@ -103,7 +103,7 @@ linha 94: Em todas as consultas que aparece o CPF é realizada nesse formato? Se
 
  >"_Este formato foi pensado para permitir o controle social e evitar homonímia, ao mesmo tempo em que protege a pessoa cujo CPF está sendo divulgado contra possíveis fraudes que poderiam ser realizadas caso o número fosse exibido de maneira integral. A ocultação dos cinco dígitos dificulta a ocorrência de fraudes, já que existem pelo menos 100.000 possibilidades de combinação dos números ocultados de CPF (Diretoria de Transparência e Controle Social/CGU. 08/03/2016_ ).
 
-14 – De acordo com a `CGU` o procedimento adotado descrito acima é feito por analogia no intuito de encontrar o equilíbrio mencionado.
+14 – De acordo com a `CGU` "não existe uma norma taxativa ou uma decisão judicial que proíba ou libere totalmente a divulgação do CPF pela Administração Pública Federal", o procedimento adotado descrito acima é feito por analogia no intuito de encontrar o equilíbrio mencionado.
 
 ```
 Comentário Paola
@@ -179,6 +179,8 @@ linha 179: Acho válido, caso achem válida a sugestão, fazer referência compl
 >"_[...] 9.3. [...] ao Ministério da Transparência e Controladoria-Geral da União, com fundamento no art. 250, III, do Regimento Interno do TCU, que possibilite a inserção de arquivos com o inteiro teor dos contratos administrativos, seus anexos e aditivos nas páginas de transparência dos órgãos, com o intuito de aprimorar a transparência ativa e em atendimento aos fins do art. 8º, §1º, IV, da Lei 12.527/2011; [...]_"
 
 30 – Recentemente, inclusive, foi publicada a Lei Estadual nº 23.569, de 13 de janeiro de 2020, que legitima ainda mais a forma de divulgação das informações referentes aos procedimentos licitatórios realizados no âmbito estadual. Trata-se de legislação que dispõe sobre a aplicação dos princípios da publicidade, da transparência e do acesso à informação nos procedimentos licitatórios, por meio da qual se determina no seu art.2º que:
+
+>_"Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, __o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos"___.
 
 31 - De forma análoga a realizada no âmbito estadual, a título de exemplificação,  tanto no Poder Executivo Federal quanto no Ministério Público Federal (MPF), os contratos são divulgados na íntegra sem ocultação de nenhum dado presente na qualificação dos representantes legais do órgão/entidade contratante e dos contratados, como foi possível observar nas consultas realizadas no Contrato CGU nº 00190.101166/2020-12 , no Contrato CGU nº 00190.109976/2019-75 e no Contrato Administrativo MPF nº 001/2020.
 
@@ -290,18 +292,16 @@ linha 283:
 
 ## 4. Conclusão
 
-50- Diante do exposto, e considerando mais especificamente que a Lei Geral de Proteção de Dados (LGDP) passará a vigorar em agosto de 2020, sem  especificar os padrões a serem adotados para a divulgação de dados pessoais, solicita-se manifestação dessa Assessoria Jurídica acerca da legalidade dos procedimentos sugeridos ao longo desta nota técnica e destacados abaixo, especialmente quanto à eventual ofensa aos direitos à intimidade, à honra e à vida privada do requerente, bem como quanto a possível afronta ao inciso III do art. 6º da Lei 12.527/2011 e aos dispositivos da Lei nº 13.709/2018.
+50 – Diante do exposto, s.m.j, sugere-se a edição de normativo pela CGE que estabeleça a forma de divulgação dos dados pessoais no Portal da Transparência, principalmente no que tange ao número do CPF, estabelecendo, desse modo, um entendimento institucional nos seguintes moldes:
 
-Os procedimentos de divulgação sugeridos são:
-
-1. Divulgação do nome completo com descaracterização do número do CPF dos dados de candidato classificado em concurso público;
-2. Divulgação de nome completo, número do CPF, número da carteira de identidade (RG) - bem como outras informações pessoais eventualmente incluídas nos preâmbulos dos contratos administrativos - de representantes legais da Administração e do contratado, com exceção do `endereço residencial` do representante legal;
+* Divulgação no módulo “Concursos Realizados”, em relação aos candidatos classificados, o nome completo e o número de inscrição dos participantes do certame sem a divulgação do CPF.
+* ●	Divulgação da íntegra dos contratos administrativos com a descaracterização ou ocultação de apenas o endereço residencial do representante legal do órgão/ entidade, quando houver.
 
 ````
 Comentário Paola
 * Quem faria essa identificação se o endereço é residencial ou não? E essa ocultação?
 ````
-3. Divulgação de nome completo com descaracterização do número do CPF do credor de despesa pública, _inclusive_ no caso de folha de pagamento de pessoal e de benefícios previdenciários
+* Divulgação de nome completo com descaracterização do número do CPF do credor de despesa pública, inclusive no caso de folha de pagamento de pessoal e de benefícios previdenciários.
 
 É a posição desta Superintendência.
 ````
