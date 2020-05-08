@@ -1,10 +1,10 @@
 A [Secretaria de Estado de Saúde](https://www.saude.mg.gov.br/coronavirus), em parceria com a [Controladoria Geral do Estado](http://cge.mg.gov.br/noticias-artigos/740-novos-dados-sobre-a-covid-19-em-mg-disponibilizados-em-formato-aberto), passou a divulgar, em abril, microdados[^microdados] sobre [casos notificados](http://www.transparencia.dadosabertos.mg.gov.br/dataset/casos-notificados-coronavirus), [casos confirmados](http://www.transparencia.dadosabertos.mg.gov.br/dataset/casos-confirmados-coronavirus) e [óbitos confirmados](http://www.transparencia.dadosabertos.mg.gov.br/dataset/obitos-confirmados-coronavirus) do novo coronavírus (COVID-19). Tal iniciativa foi adotada em função da decisão de se imprimir maior transparência sobre os dados dos boletins epidemiológicos e resultados das ações de governo no enfrentamento à pandemia.
 
-[^microdados]: Microdados são ...
+[^microdados]: Microdados são informações sobre cada unidade de observação de um fenômeno ou evento. No caso em questão, cada linha do arquivo eletrônico contém uma observação de um paciente acometido com o coronavírus, sendo que as características coletadas estão representadas nas colunas subsequentes às do ID do paciente (valores de cada variável: idade, gênero, etc) 
 
 No entanto, a disponibilização de acesso irrestrito a microdados traz à tona a necessidade de encontrar o ponto de equilíbrio entre a maximização da utilidade da base de dados _versus_ a minimização do risco de re-identificação[^re-identificacao]. 
 
-[^re-identificacao]: O risco de re-identificação é ...
+[^re-identificacao]: Possibilidade de utilizar outras variáveis dos microdados para identificá-los, de fato. No caso em questão, seria o risco de associação de variáveis como idade, gênero, município de residência, evento de internação e/ou comorbidade a outras bases de dados disponíveis, para descobrir o nome ou identificação do paciente. 
 
 Esse dilema tem sido objeto de extensa discussão no âmbito acadêmico e profissional[^garfinkel2016], e vem se tornando cada vez mais relevante em virtude do fortalecimento de um lado, da política de publicação de dados abertos governamentais, e de outro, da política de proteção de dados pessoais.
 
@@ -26,9 +26,9 @@ Em âmbito internacional, não foi possível identificar experiências análogas
 Isso pode ser explicado pelo desafio técnico, legal e ético para disseminação de arquivos de microdados, como pontuado pela [International Household Survey Network (IHSN)](https://ihsn.org/dissemination-of-microdata-files). Do ponto de vista técnico, a IHSN indica alguns mecanismos para mitigação da possibilidade de reidentificação, como
 
 * divulgação da amostragem, em vez do universo dos dados;
-* categorização de medidas de variáveis em novas categorias (eg., faixas etárias), especialmente quando valores extremos são raros (no caso, óbitos de pacientes mais jovens);
-* combinação de duas variáveis formando uma nova variável agregada (eg., idade e gênero combinados);
-* remoção de variáveis (eg. municípios abaixo de uma determinada faixa populacional)
+* categorização de medidas de variáveis em novas categorias, especialmente quando valores extremos são raros;
+* combinação de duas variáveis formando uma nova variável agregada;
+* remoção de variáveis
 
 [^case-level-data]: [Epidemiological data from the COVID-19 outbreak, real-time case information](https://www.nature.com/articles/s41597-020-0448-0)
 
