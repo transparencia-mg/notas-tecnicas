@@ -18,20 +18,20 @@ O Relatório Resumido da Execução Orçamentária (RREO) é o instrumento que a
 >
 > c) despesas, por função e subfunção.
 
-Com o advento da [Lei Complementar nº 131/2009](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp131.htm) determinou-se a publicação das informações sobre a execução orçamentária e financeira em tempo real. Nesse sentido surgiram os Portais de Transparências.
+Com o advento da [Lei Complementar nº 131/2009](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp131.htm), determinou-se a publicação das informações sobre a execução orçamentária e financeira em tempo real. Nesse sentido surgiram os Portais de Transparência.
 
-Tanto o Relatório Resumido da Execução Orçamentária publicado pela Secretaria de Estado da Fazenda de Minas Gerais quanto o Portal da Transparência do Estado de Minas Gerais são importantes instrumentos da gestão fiscal que facilitam o acompanhamento das ações da administração pública.
+Tanto o Relatório Resumido da Execução Orçamentária, publicado pela Secretaria de Estado da Fazenda, quanto o Portal da Transparência, são importantes instrumentos da gestão fiscal que facilitam o acompanhamento das ações da administração pública do Estado de Minas Gerais.
 
-Atualmente os valores inscritos em restos a pagar publicados no [Portal da Transparência do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar) diferem dos publicados no [RREO](http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/rreo/) pela Secretaria de Estado da Fazenda/MG. E essa diferença é determinada por alguns fatores listados abaixo:
+Atualmente, os valores inscritos em restos a pagar publicados no [Portal da Transparência do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar) diferem dos publicados no [RREO](http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/rreo/) pela Secretaria de Estado da Fazenda/MG. E essa diferença é determinada pelos fatores listados abaixo:
 
-__1. Frequência de atualização:__
+__1. Restos a pagar referente a despesa com pessoal:__
 
-  A atualização de cada instrumento depende da legislação que o estabeleceu. Enquanto a publicação do RREO é bimestral, quadrimestral e anual a atualização do Portal de Transparência do Estado de Minas Gerais é diária, D-1. E essa periodicidade de atualização ocasiona a diferença nos valores publicados.
+  O Portal de Transparência não apresenta os valores inscritos em restos a pagar processados referentes a despesa com pessoal. Ou seja, o Portal não divulga as despesas de pessoal que completaram o estágio da liquidação, mas que ainda não foram pagas. O RREO, por sua vez, apresenta todas as despesas inscritas em restos a pagar processados, incluindo as despesas de pessoal inscritas em restos a pagar processados. Essa é a principal diferença metodológica na apuração dos valores da execução orçamentária, entre os dois instrumentos.
 
 __2. Cancelamentos dos restos a pagar:__
 
-  No decorrer do exercício financeiro podem existir cancelamentos de algumas despesas inscritas em restos a pagar. Como a atualização das despesas do Portal é diária, os valores inscritos podem sofrer constantes alterações no decorrer do exercício, inclusive atualizando as despesas que foram canceladas diariamente, enquanto no RREO os cancelamentos são informados conforme periodicidade de atualização (bimestralmente).
+  No decorrer do exercício financeiro, podem existir cancelamentos de algumas despesas inscritas em restos a pagar. Como a atualização das despesas do Portal é diária, os valores inscritos podem sofrer constantes alterações no decorrer do exercício, inclusive atualizando diariamente as despesas que forem canceladas. Já no RREO, os cancelamentos são informados conforme a sua periodicidade bimestral de atualização.
 
-__3. Restos a pagar referente a despesa com pessoal:__
+__3. Frequência de atualização:__
 
-  O Portal de Transparência não apresenta os valores inscritos em restos a pagar processados referentes a despesa com pessoal, ou seja, o Portal não divulga as despesas de pessoal que completaram o estágio da liquidação, mas que ainda não foram pagas, diferentemente do RREO, que apresenta todas as despesas inscritas em restos a pagar processados, incluindo as despesas de pessoal inscritas em restos a pagar processados. E essa é a principal diferença entre a publicação dos dados desses instrumentos.  
+  A atualização de cada instrumento depende da legislação que o estabeleceu. Enquanto a publicação do RREO é bimestral, a atualização do Portal de Transparência do Estado de Minas Gerais é diária, D-1. E essa diferença na periodicidade de atualização provoca diferenças nos valores publicados.
