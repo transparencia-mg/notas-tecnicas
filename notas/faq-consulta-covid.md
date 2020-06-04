@@ -4,9 +4,9 @@ Como uma das primeiras medidas para enfrentar a emergência de saúde pública d
 
 Seguindo a mesma linha, o Governo de Minas Gerais editou:
 
-* a **[Lei nº 23.640/2020]**(https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23640&comp=&ano=2020), com o objetivo de __ampliar a transparência e permitir o controle das contratações ou aquisições__ celebrados em caráter emergencial em razão do estado de calamidade pública;
+* a **[Lei nº 23.640/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23640&comp=&ano=2020)**, com o objetivo de __ampliar a transparência e permitir o controle das contratações ou aquisições__ celebrados em caráter emergencial em razão do estado de calamidade pública;
 
-* a **[Lei nº 23.632/2020]**(https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LEI&num=23632&comp=&ano=2020&texto=consolidado), __para criar o Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19__ e autorizar a abertura de crédito especial ao Orçamento Fiscal do Estado em favor das unidades orçamentárias que especifica. 
+* a **[Lei nº 23.632/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LEI&num=23632&comp=&ano=2020&texto=consolidado)**, __para criar o Programa 26 - Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19__ e autorizar a abertura de crédito especial ao Orçamento Fiscal do Estado em favor das unidades orçamentárias que especifica. 
 
 No entanto, como a publicação da Lei nº 23.632/2020, ocorreu em 02 de abril de 2020, parte dos processos já estavam sendo executados em outros programas e parte passaram a ser executadas diretamente no Programa 26. 
 
