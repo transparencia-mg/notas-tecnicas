@@ -1,26 +1,28 @@
-# Por que um processo de compra pode constar como contratação emergencial, mas sem fazer parte do Programa de Enfrentamento dos efeitos da pandemia da COVID-19?
+# Todas as contratações ou aquisições emergenciais fazem parte do Programa de Enfrentamento dos efeitos da pandemia da COVID-19?
 
-Como uma das primeiras medidas para enfrentar a emergência de saúde pública decorrente da pandemia da COVID-19, o Governo Federal sancionou a [Lei Federal nº 13.979/2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L13979.htm), com o objetivo de dar publicidade às contratações ou aquisições por dispensa de liictação, que sejam necessárias ao enfrentamento da emergência de saúde pública. 
+Não.
 
-Seguindo a mesma linha, o Governo de Minas Gerais editou:
+Como uma das primeiras ações para enfrentar a emergência de saúde pública decorrente da pandemia da COVID-19, o Governo Federal sancionou a [Lei Federal nº 13.979/2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L13979.htm). Dentre outras medidas, à Lei deu ampla publicidade às contratações ou aquisições emergenciais necessárias ao enfrentamento da pandemia da COVID-19. 
 
-* a **[Lei nº 23.640/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23640&comp=&ano=2020)**, com o objetivo de __ampliar a transparência e permitir o controle das contratações ou aquisições__ celebrados em caráter emergencial em razão do estado de calamidade pública;
+Por sua vez, o Governo de Minas Gerais editou:
 
-* a **[Lei nº 23.632/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LEI&num=23632&comp=&ano=2020&texto=consolidado)**, __para criar o Programa 26 - Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19__ e autorizar a abertura de crédito especial ao Orçamento Fiscal do Estado em favor das unidades orçamentárias que especifica. 
+* a **[Lei nº 23.632/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LEI&num=23632&comp=&ano=2020&texto=consolidado)**, __para criar o Programa 26 - Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19__ e autorizar a abertura de crédito especial ao Orçamento Fiscal do Estado em favor das unidades orçamentárias que especifica; 
+
+* a **[Lei nº 23.640/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23640&comp=&ano=2020)**, com o objetivo de __ampliar a transparência e permitir o controle das contratações ou aquisições__ celebrados em caráter emergencial em razão do estado de calamidade pública.
 
 Nesse sentido, com o objetivo de facilitar o acesso a essas informações foi desenvolvida uma área específica no Portal da Transparência destinada à publicação:
 
-#### 1. De informações relativas às [Contratações Emergenciais](http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus) com base na Lei Federal nº 13.979/2020 e na Lei Estadual nº 23.640/2020:
+#### 1. De informações relativas às [Compras Emergenciais](http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus) com base na Lei Federal nº 13.979/2020 e na Lei Estadual nº 23.640/2020:
 
 Destaca-se que como a publicação da Lei nº 23.632/2020, ocorreu em 02 de abril de 2020, parte dos processos já estavam sendo executados em outros programas e após a publicação da Lei nº 23.632/2020 parte passaram a ser executadas diretamente no Programa 26. 
 
-Salienta-se que não há uma regra específica que determina a execução no Programa 26, a escolha em qual Programa será executado depende  da diretriz adotada por cada órgão e também a existência de recursos para o atendimento das ações, conforme exemplos a seguir:
+Salienta-se que não há uma regra específica que determina a execução no Programa 26, a escolha em qual Programa será executado depende da diretriz adotada por cada órgão e também a existência de recursos para o atendimento das ações, conforme exemplos a seguir:
+
+*  Processo  nº [0250073 000001/2020](http://transparencia.mg.gov.br/covid-19/compras-contratos/contratoscovid-detalharcompra/322109) - [Empenho nº 3 ](http://transparencia.mg.gov.br/despesa-estado/despesa/despesa-programas/2020/01-01-2020/31-12-2020/14130/4026/55410/526/21/40/1762414/0/2817/empenhado/3/12707830/0/0): processo de compra é contratação emergencial, e __POSSUI execução no Programa 26__;
 
 * Processo  nº [1259662 000008/2020](http://transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos/comprasecontratos-detalhe-proccompra/2020/20200101/20201231/321001): processo de compra é contratação emergencial, mas __NÃO possui execução no Programa 26__;
 
-*  Processo  nº [0250073 000001/2020](http://transparencia.mg.gov.br/covid-19/compras-contratos/contratoscovid-detalharcompra/322109) - [Empenho nº 3 ](http://transparencia.mg.gov.br/despesa-estado/despesa/despesa-programas/2020/01-01-2020/31-12-2020/14130/4026/55410/526/21/40/1762414/0/2817/empenhado/3/12707830/0/0): processo de compra é contratação emergencial, mas __POSSUI execução no Programa 26__:
-
-#### 2. De informações relativas às [Compras - Programa de Enfrentamento Covid-19](http://transparencia.mg.gov.br/covid-19/compras-contratos) executadas no Programa 26 - Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19, conforme Lei estadual nº 23.632/2020:
+#### 2. De informações relativas às [Compras - Programa de Enfrentamento Covid-19](http://transparencia.mg.gov.br/covid-19/compras-contratos) executadas no Programa 26 - Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19, conforme Lei estadual nº 23.632/2020.
 
 Aqui estão listados os processos de compras que executaram pelo menos um item de material/serviço na dotação orçamentária do Programa 26. Esses processos podem ser contratações que estão em execução, e, devido à necessidade atual, foi realizado o apostilamento da dotação orçamentária.
 
