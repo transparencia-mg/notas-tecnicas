@@ -36,6 +36,6 @@ Salientamos que os processos de contratações e aquisições realizadas com bas
 
 Por fim, solicitamos ainda que as contratações, compras, aquisições, convênios e parcerias realizadas para o combate ao coronavírus sejam encaminhadas para esta Controladoria-Geral do Estado em formato de planilha, conforme leiaute do Anexo I - Ofício Circular CGE/GAB nº. 4/2020, por meio do endereço eletrônico transparencia@cge.mg.gov.br para publicação consolidada das informações no Portal da Transparência de Minas Gerais como dados abertos para atendimento da Lei Estadual nº 23.640/2020 que prevê a publicação dessas informações no Portal da Transparência.
 
-Dúvidas ou maiores esclarecimentos podem ser obtidos por meio de contato com o servidor Francisco Alves de Oliveira Júnior, Diretor Central de Transparência Ativa, no endereço eletrônico francisco.junior@cge.mg.gov.br.
+Dúvidas ou maiores esclarecimentos podem ser obtidos na Diretoria Central de Transparência Ativa, no endereço eletrônico transparencia@cge.mg.gov.br.
 
 Atenciosamente,
