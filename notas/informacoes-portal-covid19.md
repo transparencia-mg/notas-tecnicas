@@ -81,6 +81,6 @@ Devido a limitações técnica do sistema, conclui-se que as consultas disponív
 
 Assim, para que preserve os envolvidos e permita uma avaliação segura sobre os dados disponibilizados, recomenda-se:
 
-1.	Retirar de produção a consulta Compras – Programa de Enfrentamento COVID-19 até que se identifique uma forma mais adequada de disponibilizar os dados executados exclusivamente no Programa 26. A retirada da consulta do ar não haverá prejuízos para a disponibilização dos dados, considerando que esses processos estão contemplados na consulta de [Compras e Contratos](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) do Portal da Transparência.
+1.	Retirar de produção a consulta Compras – Programa de Enfrentamento COVID-19 até que se identifique uma forma mais adequada de disponibilizar os dados executados exclusivamente no Programa 26. A retirada da consulta do ar não trará prejuízos para a disponibilização dos dados, considerando que esses processos estão contemplados na consulta de [Compras e Contratos](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) do Portal da Transparência.
 
 2.	Envidar esforços em contactar as unidades de compras dos órgãos e entidades para que realizem o envio dos processos de compras realizados em caráter emergencial para DTA, a fim de atualizar a consulta Compras Emergenciais.
