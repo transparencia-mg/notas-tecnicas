@@ -79,7 +79,7 @@ No entanto, recomenda-se para fins de publicações todas as contratações real
 ## Conclusão
 Devido a limitações técnica do sistema, conclui-se que as consultas disponíveis no Portal da Transparência do Estado de Minas Gerais atendem parcialmente o objetivo de divulgar informações sobre todas as contratações realizadas para o enfrentamento do coronavírus.
 
-Assim, para que preserve os envolvidos e permita uma avaliação segura sobre os dados disponibilizados, recomenda-se:
+Assim, para que se preservem os envolvidos e permita uma avaliação segura sobre os dados disponibilizados, recomenda-se:
 
 1.	Retirar de produção a consulta Compras – Programa de Enfrentamento COVID-19 até que se identifique uma forma mais adequada de disponibilizar os dados executados exclusivamente no Programa 26. A retirada da consulta do ar não trará prejuízos para a disponibilização dos dados, considerando que esses processos estão contemplados na consulta de [Compras e Contratos](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) do Portal da Transparência.
 
