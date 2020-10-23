@@ -17,7 +17,7 @@ A sugestão de redação foi parcialmente acatada no Substitutivo nº 1, que apr
 
 > Art. 1º – O processo licitatório realizado pelos órgãos e entidades da administração pública estadual direta e indireta será gravado em áudio e vídeo e publicado, por meio da internet, nos seus sítios eletrônicos oficiais.
 
-Ainda que a obrigação tenha sido alterada de __transmissão__ para __publicação__, a DCTA sugere a inclusão de dispositivo que permita que as informações possam ser disponibilizadas nos sítios eletrônicos oficiais por meio de ferramenta de redirecionamento de página na Internet, desde que garantidas a disponibilidade, autenticidade e integridade das gravações. A alteração visa garantir que possam ser utilizadas plataformas especializadas para divulgação de vídeos, evitando-se custos adicionais, em respeito ao princípio da economicidade.
+Embora a redação proposta não tenha sido acatada em sua interalidade, a mudança da obrigação de __transmissão__ para __publicação__ pode gerar uma redução dos custos operacionais, que era o objetivo da alteração. Porém, a DCTA sugere ainda a inclusão de dispositivo que permita que as informações possam ser disponibilizadas nos sítios eletrônicos oficiais por meio de ferramenta de redirecionamento de página na Internet, desde que garantidas a disponibilidade, autenticidade e integridade das gravações. A alteração visa garantir que possam ser utilizadas plataformas especializadas para divulgação de vídeos, evitando-se custos adicionais, em respeito ao princípio da economicidade.
 
 # II. Impacto da proposição
 
